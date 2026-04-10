@@ -3,7 +3,8 @@
 You're here because you have ideas that could make Coterra better — and now you have the tools to build them.
 
 VibeCode Crew is a community of builders across Coterra who are turning ideas into working applications using AI-assisted development. No CS degree required. No ticketing system. Just you, a problem worth solving, and an AI coding partner.
-What This Is
+
+## What This Is
 
 A structured path from idea to working app. You'll get access to pre-configured development environments, AI coding tools, and a community of people doing the same thing. Build tools for your team, automate a workflow that's been bugging you, or prototype something nobody's thought of yet.
 
