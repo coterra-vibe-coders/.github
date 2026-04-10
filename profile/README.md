@@ -1,4 +1,4 @@
-🚀 Welcome to the Coterra VibeCode Crew
+# 🚀 Welcome to the Coterra VibeCode Crew
 
 You're here because you have ideas that could make Coterra better — and now you have the tools to build them.
 
